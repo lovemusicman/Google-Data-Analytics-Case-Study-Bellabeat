@@ -18,7 +18,7 @@ Bellabeat’s cofounder Sršen believes that an analysis of Bellabeat’s availa
   2. How could these trends apply to Bellabeat customers?
   3. How could these trends help influence Bellabeat marketing strategy?
 
-1.3 Key Stockholders:
+1.3 Key Stackholders:
   1. **Urška Sršen**: Bellabeat’s cofounder and Chief Creative Officer
   2. **Sando Mur**: Mathematician and Bellabeat’s cofounder; key member of the Bellabeat executive team
   3. **Bellabeat marketing analytics team**: A team of data analysts responsible for collecting, analyzing, and reporting data that helps guide Bellabeat’s marketing strategy.
