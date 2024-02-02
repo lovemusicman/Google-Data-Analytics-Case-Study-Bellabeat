@@ -7,6 +7,6 @@ Collecting data on activity, sleep, stress, and reproductive health has allowed 
 Bellabeat’s cofounder Sršen believes that an analysis of Bellabeat’s available consumer data would reveal more opportunities for growth.
 
 ## Step 1: Ask
-1.1 Business Task:
+1.1 Business Task:  
   Analyze smart device usage data from non-Bellabeat products to uncover trends in consumer behavior and preferences. Leverage these insights to recommend strategic directions for one Bellabeat product, aiming to enhance its market positioning and user engagement. This analysis should guide the marketing strategy by identifying opportunities for growth and better alignment with consumer needs.
 
