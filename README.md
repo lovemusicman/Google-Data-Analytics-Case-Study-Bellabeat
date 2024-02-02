@@ -10,3 +10,8 @@ Bellabeat’s cofounder Sršen believes that an analysis of Bellabeat’s availa
 1.1 Business Task:  
   Analyze smart device usage data from non-Bellabeat products to uncover trends in consumer behavior and preferences. Leverage these insights to recommend strategic directions for one Bellabeat product, aiming to enhance its market positioning and user engagement. This analysis should guide the marketing strategy by identifying opportunities for growth and better alignment with consumer needs.
 
+1.2 Business Objectives:  
+  1. What are some trends in smart device usage?
+  2. How could these trends apply to Bellabeat customers?
+  3. How could these trends help influence Bellabeat marketing strategy?
+
