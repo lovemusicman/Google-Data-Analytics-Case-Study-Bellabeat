@@ -1,1 +1,2 @@
-# Google_Data_Analytics_Case_Study_Bellabeat
+# Case-Study : Bellabeat
+https://bellabeat.com/
