@@ -35,3 +35,5 @@ Bellabeat’s cofounder Sršen believes that an analysis of Bellabeat’s availa
    * The 'DailyActivity' file already includes data on steps, activity, and calories, which overlaps with the data in the 'dailyCalories', 'dailyIntensities', and 'dailySteps' files.
    * The 'WeightLogInfo' file contains data from only 8 respondents, which is significantly less than the 33 found in other datasets. To avoid bias, this dataset has been skipped.
 
+## Step 3: Process
+3.1 Cleaning the data:
