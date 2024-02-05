@@ -31,9 +31,12 @@ Bellabeat’s cofounder Sršen believes that an analysis of Bellabeat’s availa
   
 2.2 Data selection and Dataset preview:  
   Bellabeat's products wellness tracker" and watch have similar funtions with FitBit Fitness Tracker, they all track user's activity, step, calory and sleep.
-* I focus on analyzing daily data to track users' habits. The **DailyActivity** and **SleepDaily** datasets have been selected for analysis.  
-   * The 'DailyActivity' file already includes data on steps, activity, and calories, which overlaps with the data in the 'dailyCalories', 'dailyIntensities', and 'dailySteps' files.
-   * The 'WeightLogInfo' file contains data from only 8 respondents, which is significantly less than the 33 found in other datasets. To avoid bias, this dataset has been skipped.
-
+* For analyzing daily data to track users' habits, I'm going to focus on **daily** and **WeightLogInfo** datasets.  
+  * I found out dataset 'DailyActivity' already includes data on steps, activity and calories by using Excel, so the datasets
+    I am going to use are 'DailyActivity', 'sleepDaily', 'weightLogInfo'.
 ## Step 3: Process
 3.1 Cleaning the data:
+* Import datasets:
+  
+The 'WeightLogInfo' file contains data from only 8 respondents, which is significantly less than the 33 found in other datasets. To avoid bias, this dataset has been skipped.
+
